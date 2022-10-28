@@ -3,7 +3,7 @@
         </tr>
 	</form>
         <tr>
-        	<td width="9%">X</td>
+        	<td width="9%">Multiplicasion</td>
             <td width="9%" bgcolor="#2ad4b5">1</td>
             <td width="9%" bgcolor="#2ad4b5">2</td>
             <td width="9%" bgcolor="#2ad4b5">3</td>
