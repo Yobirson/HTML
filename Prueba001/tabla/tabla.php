@@ -21,9 +21,9 @@
 					echo "<td width='10%' bgcolor='#2ad4b5'>".$i."</td>";
 					for($j = 1; $j <= 6; $j++){
 						if((($numero * $j) == $total) and ($numero == $data2)){
-							echo "<td width='00%' style='color:red;'>".$numero * $j."</td>";  
+							echo "<td width='10%' style='color:red;'>".$numero * $j."</td>";  
 						} else {
-							echo "<td width='00%'>".$numero * $j."</td>";  		
+							echo "<td width='10%'>".$numero * $j."</td>";  		
 						}
 					}		
 					$numero++;			
